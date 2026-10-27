@@ -176,8 +176,8 @@ See **[DEPLOY.md](DEPLOY.md)**: web app on **Vercel**, server + WorkBuddy engine
 |---|---|---|
 | Ng Wei Bin | [@ngweibin050-dev](https://github.com/ngweibin050-dev) | |
 | Jian Cheng | [@JianCheng929](https://github.com/JianCheng929) | |
-| Lee Kok Meng | <!-- TODO: GitHub handle --> | |
-| Lew Sean Yew | <!-- TODO: GitHub handle --> | |
+| Lee Kok Meng | [@LKM07](https://github.com/LKM07) | |
+| Lew Sean Yew | [@seanyew](https://github.com/seanyew) | |
 
 <div align="center">
 
